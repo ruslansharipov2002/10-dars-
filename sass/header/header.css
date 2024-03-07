@@ -1,0 +1,25 @@
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style: none;
+  padding-top: 34px;
+}
+.content nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.content .ul_text {
+  display: flex;
+  gap: 40px;
+}
+.content .li_text {
+  list-style: none;
+}
+
+@media screen and (max-width: 576px) {
+  nav {
+    display: none;
+  }
+}/*# sourceMappingURL=header.css.map */

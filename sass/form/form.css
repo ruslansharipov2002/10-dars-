@@ -1,0 +1,71 @@
+.section_5 {
+  background-color: #141414;
+}
+.section_5 .content_6 {
+  padding-top: 94px;
+  margin-bottom: 60px;
+}
+.section_5 .content_7 {
+  color: #fff;
+  display: flex;
+}
+.section_5 .rights {
+  padding-left: 15px;
+  padding-top: 8px;
+}
+.section_5 .Categories {
+  display: flex;
+  margin-top: 60px;
+}
+.section_5 .Animation {
+  padding-right: 823px;
+  color: #666666;
+}
+.section_5 .Architecture {
+  color: #666666;
+}
+.section_5 .content_8 {
+  display: flex;
+  margin-top: 20px;
+  gap: 139px;
+}
+.section_5 .content_8 .card_6 {
+  width: 225px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding-bottom: 55px;
+}
+.section_5 .input_btn {
+  padding: 18px 24px;
+  display: flex;
+}
+.section_5 .input_btn .email {
+  width: 221px;
+  height: 48px;
+  text-align: center;
+}
+.section_5 .input_btn .send_btn {
+  background-color: black;
+  width: 79px;
+  height: 48px;
+  color: #fff;
+  border: none;
+}
+.section_5 .text_design {
+  text-wrap: nowrap;
+  padding-bottom: 70px;
+}
+.section_5 .about {
+  color: #666666;
+  padding-bottom: 15px;
+}
+.section_5 .Miscellaneous {
+  padding-bottom: 70px;
+}
+.section_5 .licanse {
+  text-wrap: nowrap;
+}
+.section_5 .Photography {
+  padding-bottom: 70px;
+}/*# sourceMappingURL=form.css.map */

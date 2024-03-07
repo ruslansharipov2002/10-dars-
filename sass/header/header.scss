@@ -1,0 +1,27 @@
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style: none;
+  padding-top: 34px;
+  nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .ul_text {
+    display: flex;
+    gap: 40px;
+  }
+  .li_text {
+    list-style: none;
+  }
+}
+@media screen and (max-width: 1200px) {
+}
+
+@media screen and (max-width: 576px) {
+  nav  {
+    display: none;
+  }
+}
